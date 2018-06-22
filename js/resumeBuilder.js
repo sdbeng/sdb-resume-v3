@@ -80,7 +80,7 @@ var projects = {
 			"progress": 80
 		},
 		{
-			"title": "Mobile Flashcards React Native App",
+			"title": "React Native App",
 			"date worked": "Jul, 2014 - Aug, 2014",
 			"description": "Mobile Flashcards React Native App",
 			"image": "",
