@@ -66,7 +66,7 @@ var projects = {
 			"date worked": "Oct, 2015",
 			"description": "Resume project for Udacity Front-end Web Development Nanodegree",
 			"image": "",
-			"github": "",
+			"github": "https://github.com/sdbeng/sdb-resume-v3",
 			"demo": "",
 			"progress": 90
 		},
@@ -80,7 +80,7 @@ var projects = {
 			"progress": 80
 		},
 		{
-			"title": "Project-4",
+			"title": "Mobile Flashcards React Native App",
 			"date worked": "Jul, 2014 - Aug, 2014",
 			"description": "Mobile Flashcards React Native App",
 			"image": "",

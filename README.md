@@ -1,6 +1,6 @@
 <h1>Resume</h1>
 <p>Resume project FullStack Development </p>
-<p><a href="#">resume demo</a></p>
+<p><a href="#">resume demo - upon request</a></p>
 
 <h1>References</h1>
 <ul>
