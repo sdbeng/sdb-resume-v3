@@ -85,7 +85,7 @@ var projects = {
 			"description": "Mobile Flashcards React Native App",
 			"image": "",
 			"github": "",
-			"demo": "",
+			"demo": "flashcards_view1.png",
 			"progress": 100
 		},
 		{
