@@ -15,7 +15,7 @@ var work = {
       location: "Concord, CA",
       dates: "2015 - present",
       description:
-        "Provide one-on-one and in-classroom instructional technology support to faculty and staff members to create and strengthen online learning opportunities for mdusd students; assist the office VP with data analisys. Work collaboratively with the IT department on web design/redesign projects; develop and provide technical support for interactive web applications by utilizing various programming languages including , HTML, CSS and Javascript; use the SchoolLoop content management system to maintain the website; Use InDesign, Photoshop. Illustrator, Publisher and Acrobat to design and publish online documents including postcards, flyers, brochures, web banners and email invitations"
+        "Provide one-on-one and in-classroom instructional technology support to faculty and staff members to create and strengthen online learning opportunities for mdusd students; assist the office VP with data analisys. Use the SchoolLoop content management system to maintain the website; Configure several devices and OSs platforms to provide tech support to users."
     },
     {
       employer: "SDB Webs",
