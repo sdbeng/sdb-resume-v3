@@ -185,7 +185,8 @@ var bio = {
     "MySQL",
     "React",
     "Python",
-    "mongodb"
+    "Mongodb",
+    "PostgreSQL"
   ]
 };
 bio.display = function() {
@@ -368,7 +369,7 @@ var polarData = [
     labelcolor: "yellow"
   },
   {
-    value: 4,
+    value: 5,
     color: "#949FB1",
     highlight: "#A8B3C5",
     label: "Python",
@@ -386,6 +387,13 @@ var polarData = [
     color: "#4D5360",
     highlight: "#616774",
     label: "MySQL",
+    labelcolor: "darker-gray"
+  },
+  {
+    value: 5,
+    color: "#4D5360",
+    highlight: "#616774",
+    label: "Mongodb",
     labelcolor: "darker-gray"
   }
 ];
