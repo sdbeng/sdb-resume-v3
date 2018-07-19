@@ -362,7 +362,7 @@ var polarData = [
     labelcolor: "green"
   },
   {
-    value: 4,
+    value: 5,
     color: "#FDB45C",
     highlight: "#FFC870",
     label: "Node",
@@ -394,7 +394,7 @@ var polarData = [
     color: "#4D5360",
     highlight: "#616774",
     label: "Mongodb",
-    labelcolor: "darker-gray"
+    labelcolor: "blue"
   }
 ];
 // Display a list of skill labels

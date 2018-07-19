@@ -15,3 +15,8 @@
 	<li><a href="http://jigsaw.w3.org/css-validator/">W3C CSS Validator</a></li>
 	<li> - Checked icons.css Codrops Animated Border Menu</li>
 </ul>
+
+### Todo
+
+- make chart responsive
+- fix loading scripts and test chart cdn links
