@@ -160,7 +160,7 @@ var bio = {
   "last name": "Barrera",
   role: "Full-Stack Web Developer",
   "welcome message":
-    "I'm passionate about Full Stack development. Currently working as Full Stack developer/Teaching Assistance at the UC Berkeley. Feel free to check out my Github repositories and demo projects. You can also find me on Linkedin and Twitter.",
+    "I'm passionate about Full Stack development. Currently working as Full Stack developer/Teaching Assistance at the UC Berkeley. Upon request, check out my Github repositories and demo projects. You can also find me on Linkedin and Twitter.",
   "bio pic": "#",
   contacts: {
     "mobile number": "000-000-0000",
