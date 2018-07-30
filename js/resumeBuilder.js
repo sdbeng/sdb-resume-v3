@@ -7,7 +7,7 @@ var work = {
       location: "Berkeley, CA",
       dates: "2017 - Present",
       description:
-        "Providing Bootcamp support to a group of talented undergraduate individuals who pursue a career change in their lives. Lead discussions, review code, track down Git issues and provide feedback on their projects. Guide students in their daily coding activities and challenges. Building web applications with HTML, CSS, JavaScript and React.  Databases like SQL & Mongodb and sequelize ORM. Django and Node as back-end. Being an active mentor in their 7-month journey to succeed in 4 final projects."
+        "Providing Bootcamp support to a group of talented undergraduate individuals who pursue a career change in their lives. Lead discussions, review code, track down Git issues and provide feedback on their projects. Guide students in their daily coding activities and challenges. Building web applications with HTML, CSS, JavaScript and React.  Databases like SQL & Mongodb and sequelize ORM. Django and Node as back-end. Daily hands-on on Linux and mac bash commands. Proud being an active mentor in their intensive 7-month journey to succeed in 4 final projects. This is my 2nd-cohort."
     },
     {
       employer: "SDB Webs",
@@ -15,7 +15,7 @@ var work = {
       location: "Concord, CA",
       dates: "2009 - present",
       description:
-        "Currently, working on a new React project development. Previous experience building web and native applications to access data on the web and from iOS and Android devices. As contracted Front End Developer for a National Two-Way Bilingual Org, pushed 4 iOS iPhone Apps to the App Store for the Annual National TWBI Conference plus 1 React native app for Android. (http://goo.gl/TmwMyH). Re-designed and crafted their front end website and kept up to date according to their CEO guidelines. Created Call for Papers angularjs front and back end to collect Conference presenters data. Daily work on HTML, CSS and JavaScript. Also, CMS Wordpresss development for several internal projects. "
+        "Currently, working on a new React project development. Previous experience building web and native applications to access data on the web and from iOS and Android devices. As contracted Front End Developer for a National Two-Way Bilingual Organization, pushed 4 iOS iPhone Apps to the App Store for the Annual National TWBI Conference plus 1 React native app for Android. (http://goo.gl/TmwMyH). Re-designed and crafted their front end website and kept up to date according to their CEO and Board guidelines. Created Call for Papers angularjs front and back end app to collect Conference presenters data. Daily commits on HTML, CSS, JavaScript and database server. Also, CMS Wordpresss development for several internal projects. Great experience with a weekly deadlines."
     }
   ]
 };
