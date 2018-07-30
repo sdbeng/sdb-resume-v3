@@ -233,7 +233,7 @@ var education = {
       location: "",
       degree: "Certification",
       majors: ["Unix Admin", "Web Development", "Databases"],
-      dates: "2008-2010",
+      dates: "2012-2014",
       url: ""
     },
     {
