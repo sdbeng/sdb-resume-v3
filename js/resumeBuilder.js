@@ -85,7 +85,7 @@ var projects = {
     },
     {
       title: "Molecular Lab- Data Processing",
-      "date worked": "Sept, 2014 - July, 2018",
+      "date worked": "June, 2018 - July, 2018",
       description: "Beta 2- React FE and Python Back End Project",
       github: "",
       demo: "",
