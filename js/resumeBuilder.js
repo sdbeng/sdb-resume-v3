@@ -3,27 +3,19 @@ var work = {
   jobs: [
     {
       employer: "Trilogy-UC BErkeley",
-      title: "Junior Full Stack Web Developer TA",
+      title: "Junior Full Stack Web Developer",
       location: "Berkeley, CA",
       dates: "2017 - Present",
       description:
-        "Providing Bootcamp support to a group of talented undergraduate individuals who pursue a career change in their lives. Lead discussions, provide feedback and guide students in their daily homework activities and challenges. Being an active mentor in their path to succeed with all 4 final projects."
-    },
-    {
-      employer: "MDUSD",
-      title: "Technology Coordinator",
-      location: "Concord, CA",
-      dates: "2015 - present",
-      description:
-        "Provide one-on-one and in-classroom instructional technology support to faculty and staff members to create and strengthen online learning opportunities for mdusd students; assist the office VP with data analisys. Use the SchoolLoop content management system to maintain the website; Configure several devices and OSs platforms to provide tech support to users."
+        "Providing Bootcamp support to a group of talented undergraduate individuals who pursue a career change in their lives. Lead discussions, provide feedback and guide students in their daily coding activities and challenges. Mainly building web applications with HTML, CSS, JavaScript and React plus SQL/MongoDB. Being an active mentor in their 7-month journey to succeed in 4 final projects."
     },
     {
       employer: "SDB Webs",
       title: "Front End Developer",
       location: "Concord, CA",
-      dates: "2009 - 2016",
+      dates: "2009 - present",
       description:
-        "Building web applications to help the community and non profits solve different problems when trying to access data on the web or mobile devices. As contracted Front End Developer for a National Two-Way Bilingual Org. I developed 4 iOS iPhone Apps & published to the App Store for the Annual National TWBI Conference. (http://goo.gl/TmwMyH). Re-designed and created their front end website and kept up to date according to their CEO guidelines. Created Call for Papers angularjs front and back end to collect Conference presenters data."
+        "Building web applications to solve different problems when trying to access data on the web or from iOS and Android devices. As contracted Front End Developer for a National Two-Way Bilingual Org. I developed 4 iOS iPhone Apps that were pushed to the App Store for the Annual National TWBI Conference. (http://goo.gl/TmwMyH). Re-designed and crafted their front end website and kept up to date according to their CEO guidelines. Created Call for Papers angularjs front and back end to collect Conference presenters data. Daily work on HTML, CSS and JavaScript.Also, CMS development for some internal projects. "
     }
   ]
 };
@@ -45,45 +37,45 @@ work.display = function() {
 var projects = {
   projects: [
     {
-      title: "Project-1",
+      title: "Blog - React/Redux",
       "date worked": "Dec, 2016 - Jan, 2017",
-      description: "Blog project for Udacity React Nanodegree",
+      description: "Blog project API for Udacity React Nanodegree",
       image: "",
       github: "",
       demo: "#",
       progress: 100
     },
     {
-      title: "Project-2",
+      title: "My Reads",
       "date worked": "Nov, 2016",
       description:
-        "MyReads: A Book Tracking App project for Udacity React Nanodegree",
+        "MyReads: A Book Tracking App API project for Udacity React Nanodegree",
       image: "",
       github: "",
-      demo: "",
+      demo: "#",
       progress: 100
     },
     {
-      title: "Resume",
+      title: "Resume - JS -D3 charts",
       "date worked": "Oct, 2015",
       description:
         "Resume project for Udacity Front-end Web Development Nanodegree",
       image: "",
       github: "https://github.com/sdbeng/sdb-resume-v3",
-      demo: "",
+      demo: "#",
       progress: 90
     },
     {
-      title: "Project-3",
+      title: "Readable App",
       "date worked": "Oct, 2013 - Dec, 2013",
-      description: "Readable. Udacity React Nanodegree",
+      description: "Readable.  Udacity React Nanodegree",
       image: "",
       github: "",
       demo: "",
       progress: 80
     },
     {
-      title: "React Native App",
+      title: "Cards React Native App",
       "date worked": "Jul, 2014 - Aug, 2014",
       description: "Mobile Flashcards React Native App",
       image: "",
@@ -92,12 +84,12 @@ var projects = {
       progress: 100
     },
     {
-      title: "Project-5",
-      "date worked": "Sept, 2014 - Oct, 2014",
-      description: "",
+      title: "Molecular Lab- Data Processing",
+      "date worked": "Sept, 2014 - July, 2018",
+      description: "Beta 2- React FE and Python Back End Project",
       github: "",
       demo: "",
-      progress: 80
+      progress: 55
     }
   ]
 };
@@ -184,6 +176,7 @@ var bio = {
     "Node",
     "MySQL",
     "React",
+    "Redux",
     "Python",
     "Mongodb",
     "PostgreSQL"
@@ -362,14 +355,14 @@ var polarData = [
     labelcolor: "green"
   },
   {
-    value: 5,
+    value: 7,
     color: "#FDB45C",
     highlight: "#FFC870",
-    label: "Node",
+    label: "React",
     labelcolor: "yellow"
   },
   {
-    value: 5,
+    value: 6,
     color: "#949FB1",
     highlight: "#A8B3C5",
     label: "Python",
@@ -383,17 +376,17 @@ var polarData = [
     labelcolor: "darker-green"
   },
   {
-    value: 5,
+    value: 7,
     color: "#4D5360",
     highlight: "#616774",
     label: "MySQL",
     labelcolor: "darker-gray"
   },
   {
-    value: 5,
+    value: 7,
     color: "#4D5360",
-    highlight: "#616774",
-    label: "Mongodb",
+    highlight: "#61677b",
+    label: "CSS",
     labelcolor: "blue"
   }
 ];
