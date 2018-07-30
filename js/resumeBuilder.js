@@ -15,7 +15,7 @@ var work = {
       location: "Concord, CA",
       dates: "2009 - present",
       description:
-        "Currently, working on a new React project development. Previous experience building web and native applications to access data on the web and from iOS and Android devices. As contracted Front End Developer for a National Two-Way Bilingual Org. 4 iOS iPhone Apps were pushed to the App Store for the Annual National TWBI Conference. 1 React native app for Android. (http://goo.gl/TmwMyH). Re-designed and crafted their front end website and kept up to date according to their CEO guidelines. Created Call for Papers angularjs front and back end to collect Conference presenters data. Daily work on HTML, CSS and JavaScript. Also, CMS Wordpresss development for several internal projects. "
+        "Currently, working on a new React project development. Previous experience building web and native applications to access data on the web and from iOS and Android devices. As contracted Front End Developer for a National Two-Way Bilingual Org, pushed 4 iOS iPhone Apps to the App Store for the Annual National TWBI Conference plus 1 React native app for Android. (http://goo.gl/TmwMyH). Re-designed and crafted their front end website and kept up to date according to their CEO guidelines. Created Call for Papers angularjs front and back end to collect Conference presenters data. Daily work on HTML, CSS and JavaScript. Also, CMS Wordpresss development for several internal projects. "
     }
   ]
 };
