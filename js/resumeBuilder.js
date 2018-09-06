@@ -84,12 +84,12 @@ var projects = {
       progress: 100
     },
     {
-      title: "Molecular Lab- Data Processing",
-      "date worked": "June, 2018 - July, 2018",
-      description: "Beta 2- React FE and Python Back End Project",
+      title: "React Business Project",
+      "date worked": "June, 2018 - Aug, 2018",
+      description: "Beta 3- React, JavaScript, Redux Project",
       github: "",
       demo: "",
-      progress: 55
+      progress: 75
     }
   ]
 };
