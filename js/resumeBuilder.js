@@ -263,6 +263,19 @@ var education = {
       school: "EDX Berkeley",
       dates: 2018,
       url: "https://courses.edx.org/dashboard"
+    },
+    {
+      title: "Full Stack Web Development with React - course 2",
+      school: "Hong Kong University of Science and Technology Coursera",
+      dates: 2018,
+      url: "https://www.linkedin.com/in/sdbwebsolutions/"
+    },
+    {
+      title:
+        "Multiplatform Mobile App Development with React Native - course 3 in progress",
+      school: "Hong Kong University of Science and Technology Coursera",
+      dates: 2018,
+      url: "https://www.linkedin.com/in/sdbwebsolutions/"
     }
   ]
 };
